@@ -5,4 +5,5 @@ How to use the website:
 2 - update and delete and your changes will not be lost
 
 the techlogies used are : HTML,CSS,JS,Express,Node,EJS and MongoDB
+the application is running on heroku and databases are hosted on mongoAtlas.
 this was done reelvenat to angela Yu's course on udemy the compelete bootcamp for web developer.
